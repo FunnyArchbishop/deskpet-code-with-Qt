@@ -1,0 +1,5 @@
+D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt.dir
+D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/edit_cache.dir
+D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/rebuild_cache.dir
+D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt_autogen_timestamp_deps.dir
+D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt_autogen.dir

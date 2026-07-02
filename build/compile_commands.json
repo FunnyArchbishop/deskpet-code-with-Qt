@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt/build/deskpet-qt_autogen/include\" -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt\" -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\deskpet-qt.dir\\deskpet-qt_autogen\\mocs_compilation.cpp.obj -c \"D:\\What Can IC\\deskpet\\deskpet-code-with-Qt\\build\\deskpet-qt_autogen\\mocs_compilation.cpp\"",
+  "file": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build/deskpet-qt_autogen/mocs_compilation.cpp",
+  "output": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt.dir/deskpet-qt_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt/build/deskpet-qt_autogen/include\" -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt\" -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\deskpet-qt.dir\\main.cpp.obj -c \"D:\\What Can IC\\deskpet\\deskpet-code-with-Qt\\main.cpp\"",
+  "file": "D:/What Can IC/deskpet/deskpet-code-with-Qt/main.cpp",
+  "output": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt/build/deskpet-qt_autogen/include\" -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt\" -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\deskpet-qt.dir\\petwindow.cpp.obj -c \"D:\\What Can IC\\deskpet\\deskpet-code-with-Qt\\petwindow.cpp\"",
+  "file": "D:/What Can IC/deskpet/deskpet-code-with-Qt/petwindow.cpp",
+  "output": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt.dir/petwindow.cpp.obj"
+},
+{
+  "directory": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt/build/deskpet-qt_autogen/include\" -I\"D:/What Can IC/deskpet/deskpet-code-with-Qt\" -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\deskpet-qt.dir\\sprite_loader.cpp.obj -c \"D:\\What Can IC\\deskpet\\deskpet-code-with-Qt\\sprite_loader.cpp\"",
+  "file": "D:/What Can IC/deskpet/deskpet-code-with-Qt/sprite_loader.cpp",
+  "output": "D:/What Can IC/deskpet/deskpet-code-with-Qt/build/CMakeFiles/deskpet-qt.dir/sprite_loader.cpp.obj"
+}
+]
