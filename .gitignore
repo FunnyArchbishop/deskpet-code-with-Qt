@@ -1,0 +1,19 @@
+# 编译输出
+build/
+output/
+
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.pro.user*
+
+# 系统文件
+Thumbs.db
+.DS_Store
